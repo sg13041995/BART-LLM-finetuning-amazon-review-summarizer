@@ -1,1 +1,1 @@
-# BART-LLM-finetuning-chat-summarizer
+# BART-LLM-finetuning-amazon-review-summarizer
